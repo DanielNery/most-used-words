@@ -14,12 +14,21 @@ NodeJs, ElectronJs e VueJS. Aplicativo Desktop
 ## Mais Informações
 Cusulte a documentação do VueJs
 https://vuejs.org/v2/guide/
-
 Consulte a documentação do ElectronJs
 https://www.electronjs.org/docs
-
 Consulte a documentação do NodeJs
 https://nodejs.org/pt-br/docs/
+
+
+## Atenção!
+Certifique-se de ter o NodeJS >= v12.20.1 && Npm >= v7.5.2 && Vue >= @vue/cli 4.5.11
+
+## Passos para instalação em ambiente de desenvolviemnto
+- git clone git@github.com:DanielNery/most-used-words.git
+- cd most-used-words
+- npm install
+- npm update
+- npm run electron:serve
 
 
 # By Daniel Pontes Nery 
