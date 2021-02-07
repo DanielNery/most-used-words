@@ -1,5 +1,5 @@
 # Most Used Words 
-<img src="./src/assets/most_used_word.gif" width="400" height="400" />
+<img src="./src/assets/most_used_word.gif" width="900" height="600" />
 
 ## Objetivo
 O Most Used Words é um aplicativo, inicialmente para Desktop, que tem como objetivo ajudar estudantes de Idiomas que gostam de praticar
