@@ -13,11 +13,11 @@ NodeJs, ElectronJs e VueJS. Aplicativo Desktop
 
 ## Mais Informações
 Cusulte a documentação do VueJs
-https://vuejs.org/v2/guide/
+https://vuejs.org/v2/guide/<br/>
 Consulte a documentação do ElectronJs
-https://www.electronjs.org/docs
+https://www.electronjs.org/docs<br/>
 Consulte a documentação do NodeJs
-https://nodejs.org/pt-br/docs/
+https://nodejs.org/pt-br/docs/<br/>
 
 
 ## Atenção!
