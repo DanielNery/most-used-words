@@ -32,9 +32,9 @@ Certifique-se de ter o NodeJS >= v12.20.1 && Npm >= v7.5.2 && Vue >= @vue/cli 4.
 
 
 # By Daniel Pontes Nery 
-# feito junto com o Curso de VueJs e ElectronJs da Cod3r
+feito junto com o Curso de VueJs e ElectronJs da Cod3r
 
-www.linkedin.com/in/daniel-pontes-nery-b41b9317b/
+www.linkedin.com/in/daniel-pontes-nery-b41b9317b/<br/>
 www.github.com/DanielNery
 
 
